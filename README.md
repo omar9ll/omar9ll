@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**omar9ll/omar9ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Omar Alshantout
 
-Here are some ideas to get you started:
+Computer Science student at McMaster University  
+Software Developer Intern | Interested in AI, Backend Systems, and Scalable Applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- Currently building AI-powered systems and full-stack applications  
+- Passionate about problem solving and clean system design  
+- Actively preparing for competitive software engineering internships  
+
+---
+
+## Technical Skills
+
+**Languages:** Java, Python, C++, JavaScript, C  
+**Frameworks:** React, Node.js, Flask, Laravel  
+**Tools:** Git, Linux, Google Cloud, VS Code  
+
+---
+
+## Current Focus
+
+- Data Structures & Algorithms  
+- Backend development  
+- Scalable system architecture  
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/omar-alshantout/
+- Email: alshantoutomar@gmail.com
