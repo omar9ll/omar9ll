@@ -32,10 +32,10 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
+| **[London Tube Route Planner](https://github.com/omar9ll/london-tube-route-planner)** | Python, Matplotlib | Dijkstra, Bellman-Ford, A* & Floyd-Warshall from scratch with a custom min-heap; A* with a haversine heuristic benchmarked against Dijkstra on every London Underground station pair; Strategy-pattern OOP design |
+| **[Movie Recommendation System](https://github.com/omar9ll/movie-recommendation-system)** | Java 21, Maven, JUnit | Team project: recommends movies from user ratings using genre/director preference scoring; Agile sprints with SRS/SDD docs |
+| **[2048 Game](https://github.com/omar9ll/2048-c)** | C | Terminal game with shift/merge logic, win/game-over detection and raw keyboard input (termios) |
 | **Detailing & Customs Business Website** | React, JavaScript, CSS, HTML5 Canvas | Multi-page React site for a GTA detailing business; animated Canvas hero scene; responsive branded UI |
-| **Movie Recommendation System** | Java, Maven, Git | Algorithm that scores and ranks movies from user data; team project with structured SE practices |
-| **2048 Game** | C | Console game with dynamic memory, pointer-based grid and low-level input handling |
-| **Hangman Game** | JavaScript, HTML, CSS | Interactive DOM-based game with event listeners and CSS animations |
 
 ---
 
