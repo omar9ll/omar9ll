@@ -35,7 +35,7 @@
 | **[London Tube Route Planner](https://github.com/omar9ll/london-tube-route-planner)** | Python, Matplotlib | Dijkstra, Bellman-Ford, A* & Floyd-Warshall from scratch with a custom min-heap; A* with a haversine heuristic benchmarked against Dijkstra on every London Underground station pair; Strategy-pattern OOP design |
 | **[Movie Recommendation System](https://github.com/omar9ll/movie-recommendation-system)** | Java 21, Maven, JUnit | Team project: recommends movies from user ratings using genre/director preference scoring; Agile sprints with SRS/SDD docs |
 | **[2048 Game](https://github.com/omar9ll/2048-c)** | C | Terminal game with shift/merge logic, win/game-over detection and raw keyboard input (termios) |
-| **Detailing & Customs Business Website** | React, JavaScript, CSS, HTML5 Canvas | Multi-page React site for a GTA detailing business; animated Canvas hero scene; responsive branded UI |
+| **[SD Detailing & Customs — Live Website](https://sdautoshop.com/)** | React, JavaScript, CSS, HTML5 Canvas | Built, deployed and hosted a multi-page site for a Hamilton-area detailing shop; handled SEO end to end: keyword-targeted page titles & meta descriptions, location-based service landing pages (e.g. ceramic coating, PPF, window tint in Hamilton), structured data (schema.org), Open Graph tags and canonical URLs; animated Canvas hero and responsive UI |
 
 ---
 
