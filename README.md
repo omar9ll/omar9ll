@@ -32,7 +32,7 @@
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[JobMatch AI](https://github.com/omar9ll/jobmatch-ai)** | Python, FastAPI, Claude API, Docker, GitHub Actions | Scores a resume against a job posting (weighted required vs nice-to-have skills, alias-aware extraction), shows skill gaps and generates tailored suggestions with Claude; tested with pytest and CI |
+| **[JobMatch AI](https://github.com/omar9ll/jobmatch-ai)** · [live demo](https://jobmatch-ai-mbu5.onrender.com/) | Python, FastAPI, Claude API, Docker, GitHub Actions | Scores a resume against a job posting (weighted required vs nice-to-have skills, alias-aware extraction), shows skill gaps and generates tailored suggestions with Claude; tested with pytest and CI |
 | **[London Tube Route Planner](https://github.com/omar9ll/london-tube-route-planner)** | Python, Matplotlib | Dijkstra, Bellman-Ford, A* & Floyd-Warshall from scratch with a custom min-heap; A* with a haversine heuristic benchmarked against Dijkstra on every London Underground station pair; Strategy-pattern OOP design |
 | **[Movie Recommendation System](https://github.com/omar9ll/movie-recommendation-system)** | Java 21, Maven, JUnit | Team project: recommends movies from user ratings using genre/director preference scoring; Agile sprints with SRS/SDD docs |
 | **[2048 Game](https://github.com/omar9ll/2048-c)** | C | Terminal game with shift/merge logic, win/game-over detection and raw keyboard input (termios) |
