@@ -33,6 +33,7 @@
 | Project | Stack | Highlights |
 |---|---|---|
 | **[JobMatch AI](https://github.com/omar9ll/jobmatch-ai)** · [live demo](https://jobmatch-ai-mbu5.onrender.com/) | Python, FastAPI, Claude API, Docker, GitHub Actions | Scores a resume against a job posting (weighted required vs nice-to-have skills, alias-aware extraction), shows skill gaps and generates tailored suggestions with Claude; tested with pytest and CI |
+| **[Grid Monitor](https://github.com/omar9ll/grid-monitor)** | C#, .NET 8, WPF, MVVM, xUnit, GitHub Actions | Real-time power grid dashboard in the style of utility SCADA/ADMS screens: 6 feeders streaming ~120 readings/sec through a bounded `Channel<T>` pipeline, coalesced and pushed to the UI 5×/sec so it never freezes; breaker open/close commands, overload & under-voltage alarms with deadband, live trend lines; MVVM written from scratch and unit-tested |
 | **[London Tube Route Planner](https://github.com/omar9ll/london-tube-route-planner)** | Python, Matplotlib | Dijkstra, Bellman-Ford, A* & Floyd-Warshall from scratch with a custom min-heap; A* with a haversine heuristic benchmarked against Dijkstra on every London Underground station pair; Strategy-pattern OOP design |
 | **[Movie Recommendation System](https://github.com/omar9ll/movie-recommendation-system)** | Java 21, Maven, JUnit | Team project: recommends movies from user ratings using genre/director preference scoring; Agile sprints with SRS/SDD docs |
 | **[2048 Game](https://github.com/omar9ll/2048-c)** | C | Terminal game with shift/merge logic, win/game-over detection and raw keyboard input (termios) |
@@ -42,8 +43,8 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · Java · JavaScript · PHP · SQL · C · C++ · HTML/CSS · Haskell · Matlab  
-**Frameworks:** React · Node.js · Laravel · Flask · JUnit  
+**Languages:** Python · Java · C# · JavaScript · PHP · SQL · C · C++ · HTML/CSS · Haskell · Matlab  
+**Frameworks:** React · Node.js · .NET / WPF · FastAPI · Laravel · Flask · JUnit · xUnit  
 **Tools:** Git/GitHub · Linux · Google Cloud Platform · VS Code · Visual Studio · AI coding tools  
 **Libraries:** NumPy · Pandas · Matplotlib
 
