@@ -1,11 +1,26 @@
-# Hi, I'm Omar Alshantout 👋
+<p align="center">
+  <img src="./assets/avatar-dots.svg" height="420" width="420" alt="Portrait of Omar Alshantout, drawn dot by dot" />
+</p>
 
-**3rd-year Computer Science student at McMaster University** · Backend, Full-Stack & AI  
-📍 Mississauga, ON · 🎯 Seeking 2027 software engineering co-ops / internships
+<h1 align="center">Omar Alshantout</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--alshantout-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-alshantout/)
-[![Email](https://img.shields.io/badge/Email-alshantoutomar%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:alshantoutomar@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-2ea44f?logo=adobeacrobatreader&logoColor=white)](./Omar_Alshantout_Resume.pdf)
+<p align="center">
+  <em>3rd-year CS @ McMaster · I build backends, full-stack apps and tools people actually use</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Internships-3-22c55e?style=for-the-badge" alt="Internships" />
+  <img src="https://img.shields.io/badge/MacTrack%20Users-228%2Fmo-0ea5e9?style=for-the-badge" alt="MacTrack monthly users" />
+  <img src="https://img.shields.io/badge/GPA-3.7%2F4.0-ef4444?style=for-the-badge" alt="GPA" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/omar-alshantout/"><img src="https://img.shields.io/badge/LinkedIn-omar--alshantout-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:alshantoutomar@gmail.com"><img src="https://img.shields.io/badge/Email-alshantoutomar%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="./Omar_Alshantout_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-2ea44f?logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+</p>
+
+<p align="center">📍 Mississauga, ON · 🎯 Seeking 2027 software engineering co-ops / internships</p>
 
 ---
 
@@ -42,12 +57,32 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Toolbox
 
-**Languages:** Python · Java · C# · JavaScript · PHP · SQL · C · C++ · HTML/CSS · Haskell · Matlab  
-**Frameworks:** React · Node.js · .NET / WPF · FastAPI · Laravel · Flask · JUnit · xUnit  
-**Tools:** Git/GitHub · Linux · Google Cloud Platform · VS Code · Visual Studio · AI coding tools  
-**Libraries:** NumPy · Pandas · Matplotlib
+**Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,go,ts,js,html,css" />
+</p>
+
+**Frameworks & Libraries**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,dotnet,laravel" />
+</p>
+
+**Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,cloudflare,githubactions" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
 
 ---
 
