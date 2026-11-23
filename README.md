@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="./assets/avatar-dots.svg" height="420" width="420" alt="Portrait of Omar Alshantout, drawn dot by dot" />
-</p>
-
-<h1 align="center">Omar Alshantout</h1>
-
-<p align="center">
-  <em>3rd-year CS @ McMaster · I build backends, full-stack apps and tools people actually use</em>
+  <img src="./assets/header.svg" width="900" alt="Omar Alshantout - Backend & Full-Stack Developer" />
 </p>
 
 <p align="center">
